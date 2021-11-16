@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ravigaya
 - 👀 I’m interested in web technology
 - 🌱 I’m currently learning web ApIs and other backend technologies
-- 💞️ I’m looking to collaborate on new web tecnologies and 
+- 💞️ I’m looking to collaborate on new web tecnologies 
 - 📫 How to reach me on ravigaya
