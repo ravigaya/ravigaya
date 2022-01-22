@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravigaya
+- 👋 Hi, I’m Ravi
 - 👀 I’m interested in web technology
 - 🌱 I’m currently learning web ApIs and other backend technologies
 - 💞️ I’m looking to collaborate on new web tecnologies 
